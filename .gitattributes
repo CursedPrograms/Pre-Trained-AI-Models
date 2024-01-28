@@ -12,8 +12,3 @@
 *.yml linguist-generated=false
 *.yml linguist-documentation=false
 *.yml linguist-detectable=true
-
-*.h5 linguist-vendored=false
-*.h5 linguist-generated=false
-*.h5 linguist-documentation=false
-*.h5 linguist-detectable=true
